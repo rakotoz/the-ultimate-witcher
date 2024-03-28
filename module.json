@@ -189,7 +189,7 @@
       }
     ]
   },
-  "url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
-  "manifest": "https://raw.githubusercontent.com/DKtric3L/the-ultimate-witcher/master/module.json",
-  "download": "https://github.com/DKtric3L/the-ultimate-witcher/archive/refs/heads/main.zip"
+  "url": "https://github.com/rakotoz/the-ultimate-witcher.git",
+  "manifest": "https://raw.githubusercontent.com/rakotoz/the-ultimate-witcher/master/module.json",
+  "download": "https://github.com/rakotoz/the-ultimate-witcher/archive/refs/heads/main.zip"
 }
